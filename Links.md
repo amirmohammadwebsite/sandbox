@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-05 23:48 (IR Time)
+- 📥 **[mhr-cfw-go.exe](https://github.com/amirmohammadwebsite/sandbox/raw/main/dl/mhr-cfw-go.exe)**
+
 ### 📅 2026-05-05 21:45 (IR Time)
 - 📥 **[S10.zip.001](https://github.com/amirmohammadwebsite/sandbox/raw/main/dl/S10.zip.001)**
 - 📥 **[S10.zip.002](https://github.com/amirmohammadwebsite/sandbox/raw/main/dl/S10.zip.002)**
