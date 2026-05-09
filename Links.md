@@ -1,6 +1,12 @@
 ## 🔗 Direct Download Links
+> Click on any link below to start downloading directly.<br><br/>
 
-### 📅 2026-05-07 02:17 (IR Time)
+
+### 📅 2026-05-09 17:36 IR
+- 📥 [mhr-cfw-go-windows-386.exe](https://github.com/amirmohammadwebsite/sandbox/raw/main/dl/mhr-cfw-go-windows-386.exe) `6.4MB`
+
+---
+
 - 📥 **[سیاست با مراد ویسی_ جامعه ایران_ خشمگین و در مسیر خیزش.mp4](https://github.com/amirmohammadwebsite/sandbox/raw/main/dl/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA%20%D8%A8%D8%A7%20%D9%85%D8%B1%D8%A7%D8%AF%20%D9%88%DB%8C%D8%B3%DB%8C_%20%D8%AC%D8%A7%D9%85%D8%B9%D9%87%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%20%D8%AE%D8%B4%D9%85%DA%AF%DB%8C%D9%86%20%D9%88%20%D8%AF%D8%B1%20%D9%85%D8%B3%DB%8C%D8%B1%20%D8%AE%DB%8C%D8%B2%D8%B4.mp4)**
 
 ### 📅 2026-05-07 02:15 (IR Time)
